@@ -12,7 +12,7 @@
 - amazing for large volume
 
 
-_________________________________
+_______________________________
 
 
 ### Analysis
@@ -23,3 +23,27 @@ _________________________________
 - etc.
 
 _________________________________
+
+
+# Installation 
+
+#### Clone the repo
+
+`git clone https://github.com/cloudfactory/twitter_sentiment_analysis_starter`
+
+
+#### CD into the cloned directory and create a virtualenv
+
+`python -m venv env`
+
+### Enable virtualenv
+
+`source env/bin/activate`
+
+### Install dependency packages from requirements.txt
+
+`pip install -r requirements.txt`
+
+### Oper jupyter lab session
+
+`jupyter-lab`
