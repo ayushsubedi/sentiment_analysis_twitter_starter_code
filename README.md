@@ -29,7 +29,7 @@ _________________________________
 
 #### Clone the repo
 
-`git clone https://github.com/cloudfactory/twitter_sentiment_analysis_starter`
+`git clone https://github.com/cloudfactory/sentiment_analysis_twitter_starter_code`
 
 
 #### CD into the cloned directory and create a virtualenv
